@@ -2,6 +2,7 @@
 
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 @font-face {
     font-family: Cyber;
@@ -20,6 +21,7 @@
     justify-content: center;
     min-height: 100vh;
     background: white;
+    font-family: 'Poppins', sans-serif;
   }
   
   a{
@@ -291,7 +293,8 @@ body.dark .toogle:before {
     display: flex;
     text-align: center;
     justify-content: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
     font-size: 2rem;
 }
 #file-name.cyber {
