@@ -27,6 +27,7 @@
   a{
     text-decoration: none;
     color: white;
+    
   }
 
   .bn632-hover {
@@ -201,12 +202,11 @@ footer {
     border-top: 1px solid var(--border-color);
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    color: black;
+    letter-spacing: 3px;
 }
 
 footer.dark {
     background-color: #00a2ff;
-    color: #fff;
 }
 
 svg#octo {
