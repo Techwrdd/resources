@@ -168,7 +168,7 @@ body.dark .toogle:before {
 }
 
 #file-name.dark {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .container{
     padding-top: 1%;
@@ -201,10 +201,12 @@ footer {
     border-top: 1px solid var(--border-color);
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    color: black;
 }
 
 footer.dark {
     background-color: #00a2ff;
+    color: #fff;
 }
 
 svg#octo {
